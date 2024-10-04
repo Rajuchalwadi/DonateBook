@@ -1,0 +1,9 @@
+body{
+  background-color: rgb(16, 15, 15);
+  color: white;
+}
+
+.radius{
+  border-radius: 5px;
+}
+
